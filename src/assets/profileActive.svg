@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="profileActive" transform="translate(-2 -2)">
+    <path id="Path_12" data-name="Path 12" d="M2,2H22V22H2Z" fill="none" fill-rule="evenodd" opacity="0"/>
+    <path id="Path_13" data-name="Path 13" d="M12,12A5,5,0,1,0,7,7,5.006,5.006,0,0,0,12,12Zm0,1.25c-5.887,0-10,3.084-10,7.5V22H22V20.75C22,16.334,17.888,13.25,12,13.25Z" fill="#5dc26a" fill-rule="evenodd"/>
+  </g>
+</svg>

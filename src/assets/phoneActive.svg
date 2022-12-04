@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="phoneActive" transform="translate(-2 -2)">
+    <path id="Path_10" data-name="Path 10" d="M2,2H22V22H2Z" fill="none" fill-rule="evenodd" opacity="0"/>
+    <path id="Path_11" data-name="Path 11" d="M14.941,22h5.882A1.176,1.176,0,0,0,22,20.823V16.118a1.176,1.176,0,0,0-1.177-1.176H16.118a1.176,1.176,0,0,0-1.176,1.176v1.177A8.129,8.129,0,0,1,6.706,9.059H7.882A1.176,1.176,0,0,0,9.059,7.882V3.176A1.176,1.176,0,0,0,7.882,2H3.176A1.176,1.176,0,0,0,2,3.176V9.059A12.941,12.941,0,0,0,14.941,22Z" fill="#5dc26a" fill-rule="evenodd"/>
+  </g>
+</svg>

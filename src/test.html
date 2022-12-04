@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+        }
+
+        body {
+            padding: 50px;
+        }
+
+        .container {
+            background-color: rgba(119, 136, 153, 0.477);
+            width: 100%;
+            /* min-width: 500px; */
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .flexEl {
+            width: 150px;
+            height: 120px;
+            min-width: 150px;
+            margin: 5px;
+            background-color: aliceblue;
+            flex: 1 0;
+            text-align: center;
+        }
+
+        .el5 {
+            flex: 0;
+            order: -1;
+        }
+
+        @media (max-width: 700px) {
+            .el5 {
+                background-color: cyan;
+                order: 2;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="flexEl el1">1</div>
+        <div class="flexEl el2">2</div>
+        <div class="flexEl el3">3</div>
+        <div class="flexEl el4">4</div>
+        <div class="flexEl el5">5</div>
+    </div>
+</body>
+
+</html>
