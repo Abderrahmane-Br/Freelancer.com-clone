@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="emailActive" transform="translate(-2 -2)">
+    <path id="Path_1" data-name="Path 1" d="M2,2H22V22H2Z" fill="none" fill-rule="evenodd" opacity="0"/>
+    <path id="Path_2" data-name="Path 2" d="M12,11.823,3.035,6.26A1.974,1.974,0,0,1,4,6H20a1.977,1.977,0,0,1,.965.26Zm.527,2.027h0L22,7.972C22,7.98,22,7.99,22,8v9a2,2,0,0,1-2,2H4a2,2,0,0,1-2-2V8c0-.01,0-.017,0-.027l9.47,5.877a1,1,0,0,0,1.054,0Z" fill="#5dc26a" fill-rule="evenodd"/>
+  </g>
+</svg>
